@@ -1,4 +1,4 @@
-# redux-example
+# Angular5 redux-example
 Angular state management using redux
 
 # Install Redux Dev tools extension for Chrome browser 
